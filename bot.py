@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Simple Discord SelfBot
-# Created By Viloid ( github.com/vsec7 )
+# Created By Simple ( github.com/kk123121 )
 # Use At Your Own Risk
 
 import requests, random, sys, yaml, time
